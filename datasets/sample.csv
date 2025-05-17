@@ -1,0 +1,7 @@
+name,age,gender,income,status
+Alice,30,Female,70000,Active
+Bob,45,Male,80000,Active
+Charlie,28,Male,,Inactive
+David,30,Male,70000,Active
+Emma,99,Female,,Active
+Fay,30,Female,70000,Active
